@@ -15,7 +15,7 @@ This is a multipage responsive blog template built using pure HTML, CSS, and Jav
 
 ## Introduction
 
-This is a multipage responsive blog template built using pure HTML, CSS, and JavaScript. It includes a blog page, an about page, an articles page, a poems page, a contact page, and individual blog pages. Each blog page features a proper heading, related image, blog author name, and upload date. Users can search for specific blogs using the search option. 
+This is a multipage responsive blog template built using pure HTML, CSS, and JavaScript. It includes a blog page, an about page, an articles page, a contact page, and individual blog pages. Each blog page features a proper heading, related image, blog author name, and upload date. Users can search for specific blogs using the search option. 
 
 
 ## Features
@@ -23,7 +23,6 @@ This is a multipage responsive blog template built using pure HTML, CSS, and Jav
 - Blog Page: A landing page that showcases featured blog posts and provides links to individual blog pages.
 - About Page: A page that provides information about the website and its purpose.
 - Articles Page: A page where you can find articles written by the website owner.
-- Poems Page: A page where you can find poems written by the website owner.
 - Contact Page: A contact form for users to get in touch with the website owner.
 - Individual Blog Pages: Separate pages for each blog post, including relevant information such as headings, images, author names and upload dates.
 - Search Functionality: A search option to find specific blogs based on keywords.
